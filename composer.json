@@ -1,0 +1,20 @@
+{
+    "name": "mylxsw/phpunit",
+    "authors": [
+        {
+            "name": "管宜尧",
+            "email": "mylxsw@126.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "4.3.*",
+        "mashape/unirest-php": "~1.2"
+    },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "http://pkg.phpcomposer.com/repo/packagist/"
+        },
+        {"packagist": false}
+    ]
+}
